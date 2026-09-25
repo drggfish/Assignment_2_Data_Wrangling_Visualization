@@ -2,7 +2,7 @@
 title: "Assignment_2_Data_Wrangling_Visualization"
 output: pdf_document
 date: "2026-09"
-filename: LastnameFirstname-Assignment2.rmd
+filename: FisherGeorge-Assignment2.rmd
 ---
 
 1) Generating random data is a useful skill. An exercise such as this is not only useful for developing data wrangling skills, but we can also use the resulting data for training and testing sets in machine learning. For this first exercise, I would like you to generate a data frame of random data with the following attributes:
